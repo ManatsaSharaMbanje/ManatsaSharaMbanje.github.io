@@ -1,9 +1,9 @@
 ---
 title: "Welcome to Coresthetics!!"
 layout: post
+
+
 ---![prof_pic](https://github.com/ManatsaSharaMbanje/ManatsaSharaMbanje.github.io/assets/114147402/81566e7a-d990-4145-82ca-8bc01c7392da)
-
-
 
 Welcome to Coresthetics!
 
