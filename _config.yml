@@ -16,13 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title: Home of Coresthetics, icon: home}
+  - {file: "README.md", title: About us, icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:manatsa@coresthetics.com"}
   - {title: Github, icon: github, url: "https://github.com/ManatsaSharaMbanje"}
-  - {title: Instagram, icon: instagram, url: "instagram.com/coresthetics"}
+  - {title: Instagram, icon: instagram, url: "https://instagram.com/coresthetics"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
