@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:manatsa@coresthetics.com"}
   - {title: Github, icon: github, url: "https://github.com/ManatsaSharaMbanje"}
-  - {title: Subscribe, icon: rss, url: "instagram.com/coresthetics"}
+  - {title: Instagram, icon: instagram, url: "instagram.com/coresthetics"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
