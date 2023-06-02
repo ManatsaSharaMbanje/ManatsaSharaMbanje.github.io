@@ -20,7 +20,7 @@ Best regards,
 Coresthetics team.
 
 Check out our [Instagram][jekyll-docs] for more info on how to get the most out of Coresthetics. If you have questions, you can ask them on [Twitter][jekyll-talk].
-Download the [Coresthetics app][jekll-gh] to loose the weight and be great.
+Download the [Coresthetics app][jekyll-gh] to loose the weight and be great.
 
 [jekyll-docs]: http://instagram.com/coresthetics
 [jekyll-gh]:   https://play.google.com/store/search?q=coresthetics&c=apps
